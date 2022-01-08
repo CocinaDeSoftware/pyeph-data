@@ -53,3 +53,6 @@ Fuente: https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
 estandarizando el nombre para la facil obtencion y manipulacion de los datos en la libreria pyeph
 
 base_{base_type}_{year}_{freq}_{period}.csv 
+
+
+* desde 2004 hasta 2016 no hay 4° trimestre
