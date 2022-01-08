@@ -1,0 +1,1 @@
+# Adulto equivalente

@@ -52,4 +52,4 @@ Fuente: https://www.indec.gob.ar/indec/web/Institucional-Indec-BasesDeDatos
 
 estandarizando el nombre para la facil obtencion y manipulacion de los datos en la libreria pyeph
 
-eph_{base_type}_{year}_{freq}_{period}.csv 
+base_{base_type}_{year}_{freq}_{period}.csv 
